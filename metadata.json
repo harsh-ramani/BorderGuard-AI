@@ -1,0 +1,5 @@
+{
+  "name": "BorderGuard AI: Surveillance Dashboard",
+  "description": "An interactive machine learning dashboard for border defense and surveillance, featuring anomaly detection, object classification, and high-risk zone prediction.",
+  "requestFramePermissions": []
+}
